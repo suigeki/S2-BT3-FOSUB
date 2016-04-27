@@ -21,7 +21,8 @@ class DefaultController extends Controller
     }*/
     
     /**
-     * @Route("/", name="homepage")
+     * On remplace la déclaration Route("/", name="homepage") dans le controlleur 
+     * par une déclaration au sein du fichier routing.yml
      * Il n'y a aucune condition d'accès à cette page
      */
     public function indexAction(Request $request)
