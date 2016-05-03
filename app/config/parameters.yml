@@ -1,8 +1,9 @@
 # This file is auto-generated during the composer install
 parameters:
-    database_host: 127.0.0.1
-    database_port: null
-    database_name: test1s2bsgdb
+    #database_driver: pdo_mysql
+    database_host: localhost
+    database_port: 3307
+    database_name: s2_bt3_fosub100db
     database_user: root
     database_password: doudou
     mailer_transport: smtp

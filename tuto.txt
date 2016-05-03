@@ -17,7 +17,7 @@
         cd C:\wamp64\bin\mysql\mysql5.7.9\bin
         mysql.exe --user=root --password=###
         SHOW DATABASES;
-        CREATE DATABASE mynewdb;
+        CREATE DATABASE mynewdb DEFAULT CHARACTER SET latin1 COLLATE latin1_general_ci;
         SHOW DATABASES;
 12 - Après avoir la référence de la nouvelle base de données dans app/config/parameters.yml, on met la base de données à jour
     	php app/console doctrine:schema:update --dump-sql --force

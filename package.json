@@ -1,5 +1,5 @@
 {
-  "name": "test1s2bsg",
+  "name": "s2bt3fosub",
   "version": "1.0.0",
   "description": "Symfony 2 comprenant Bootstrap piloté par Sass et Gulp",
   "main": "index.js",
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suigeki/Test1S2BSG.git"
+    "url": "https://github.com/suigeki/S2-BT3-FOSUB.git"
   },
   "bugs": {
-    "url": "https://github.com/suigeki/Test1S2BSG/issues"
+    "url": "https://github.com/suigeki/S2-BT3-FOSUB/issues"
   },
-  "homepage": "https://github.com/suigeki/Test1S2BSG#readme"
+  "homepage": "https://github.com/suigeki/S2-BT3-FOSUB#readme"
 }

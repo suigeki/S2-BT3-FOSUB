@@ -19,7 +19,7 @@ var sassDir = resourcesWeb+'sass/';
 var modeState = 'dev'; //dev | prod
 
 //OTHERS
-var pathApp = 'Test1S2BSG';
+var pathApp = 'S2-BT3-FOSUB';
 
 
 // Static server
